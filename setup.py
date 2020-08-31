@@ -36,9 +36,7 @@ except ImportError:
         from pip.download import PipSession
         from pip.req import parse_requirements
 
-from distutils.core import setup
-
-from setuptools import find_packages
+from setuptools import find_packages, setup
 
 import os
 import sys

@@ -128,13 +128,6 @@ django-ipware<3.1
 # no version here, use latest one with fresh data
 pycountry
 
-# production
-uWSGI==2.0.19.1
-gunicorn==20.0.4
-ipython==7.17.0
-docker==4.3.0
-invoke==1.4.1
-
 # tests
 coverage==5.2.1
 parse-type==0.5.2
